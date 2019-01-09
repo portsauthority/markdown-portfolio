@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Skiing
+1. Camping
+1. Climbing
