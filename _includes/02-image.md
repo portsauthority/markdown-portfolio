@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Myself](https://i1.wp.com/theportpholio.com/wp-content/uploads/2018/05/Guadalupe-Profile-copy.png?resize=1024%2C1024&ssl=1)
